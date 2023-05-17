@@ -1,0 +1,4 @@
+10:15:25.305 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+10:15:25.444 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x37798b75f5d7618e
+10:15:25.626 [main] INFO  com.makemytrip.utils.Log - Browser got launched
+10:15:28.788 [main] INFO  com.makemytrip.utils.Log - =====================================searchFlightWithValidData TEST START=========================================
